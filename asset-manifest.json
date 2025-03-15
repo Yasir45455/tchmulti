@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tchmulti/static/css/main.b391647e.css",
+    "main.js": "/tchmulti/static/js/main.35953e14.js",
+    "static/media/helper.jpg": "/tchmulti/static/media/helper.774aebbeb6a7b67cf6f0.jpg",
+    "static/media/moving.jpg": "/tchmulti/static/media/moving.774aebbeb6a7b67cf6f0.jpg",
+    "static/media/first.jpg": "/tchmulti/static/media/first.a3923ce93016a1db722f.jpg",
+    "static/media/test.jpg": "/tchmulti/static/media/test.a3923ce93016a1db722f.jpg",
+    "static/media/transport.jpg": "/tchmulti/static/media/transport.e8085ebf44dfa110a9b1.jpg",
+    "static/media/cleaning.jpg": "/tchmulti/static/media/cleaning.9b48a1d77fa6c595f97e.jpg",
+    "static/media/helper_main.png": "/tchmulti/static/media/helper_main.f3fadc2d214196840e77.png",
+    "static/media/cleaner.png": "/tchmulti/static/media/cleaner.8b363772c369a1350852.png",
+    "static/media/transport.png": "/tchmulti/static/media/transport.4336eabad6514cf90627.png",
+    "static/media/bg_image.jpg": "/tchmulti/static/media/bg_image.a3707f42fd60c33b0ed9.jpg",
+    "static/media/bottomsectiontwo.jpg": "/tchmulti/static/media/bottomsectiontwo.a3707f42fd60c33b0ed9.jpg",
+    "static/media/cargo.png": "/tchmulti/static/media/cargo.85e522618ab419015f39.png",
+    "static/media/about.png": "/tchmulti/static/media/about.681ed68377db18ce551c.png",
+    "static/media/process_4.png": "/tchmulti/static/media/process_4.f3a8352c76bbd3802aa7.png",
+    "static/media/process_3.png": "/tchmulti/static/media/process_3.0fcdb0ebccc24d8ee1df.png",
+    "static/media/process_1.png": "/tchmulti/static/media/process_1.da3fc8e5e1a18d4a71bb.png",
+    "static/media/process_2.png": "/tchmulti/static/media/process_2.ea0621fb835de9d0dcdb.png",
+    "static/media/getoffer.png": "/tchmulti/static/media/getoffer.419d18d80004448cd119.png",
+    "static/media/slick.svg": "/tchmulti/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tchmulti/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tchmulti/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tchmulti/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tchmulti/index.html",
+    "main.b391647e.css.map": "/tchmulti/static/css/main.b391647e.css.map",
+    "main.35953e14.js.map": "/tchmulti/static/js/main.35953e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b391647e.css",
+    "static/js/main.35953e14.js"
+  ]
+}
